@@ -2,7 +2,7 @@ import download from "../download.png"
 function Footer(){
     return(
         <div className="footer">
-            <section className=" bg-dark pt-4">
+            <div className=" bg-dark pt-4">
                 <div className="container pt-10 pb-2">
                     <div className="row">
                         <div className="col-md-6 d-flex ">
@@ -28,7 +28,7 @@ function Footer(){
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
         </div>
     )
     {/* // return <div>
